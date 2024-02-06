@@ -3,9 +3,7 @@
 
 ## Atelier Entrainement Test Technique
 
-Le projet consiste à créer mettre en page en moins d'une heure à partir d'une API d'offre une page web.
-
-
+Le projet consiste à créer et mettre en page une page web d'offres d'emploi en moins d'une heure à partir d'une API.
 ## Tech Stack
 
 - Langages : HTML, CSS et JavaScript
