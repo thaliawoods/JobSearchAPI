@@ -19,5 +19,5 @@ Le projet consiste à créer mettre en page en moins d'une heure à partir d'une
 
 ## Lancement du projet
 
-```npm run dev
-```
+npm run dev
+
